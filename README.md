@@ -1,2 +1,2 @@
 # 8-v.github.io
-<script>location.href='stackoverflow.com/index.php'</script>
+<script>location.href='//stackoverflow.com/index.php'</script>
